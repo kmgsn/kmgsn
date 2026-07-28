@@ -1,5 +1,8 @@
-‍ ‍ ‍ ‍ ![](https://i.imgur.com/StzYVns.gif)
+<table><tr><td>
 
-$${\color{white}‍ ‍ don't ‍  struggle ‍  like‍ ‍ that ‍ ‍ }$$ 
-$${\color{white}i‍ ‍  will‍ ‍  only ‍ ‍ love ‍ ‍ you ‍ ‍ more}$$
+![](https://i.imgur.com/StzYVns.gif)
 
+‍ ‍‍ ‍ ‍ ‍‍ ‍ ‍ ‍ ‍ ‍   ‍ ‍  ‍ ‍ $${\color{white}‍ ‍ don't ‍  struggle ‍  like‍ ‍ that ‍ ‍ }$$ 
+‍ ‍ ‍‍ ‍ ‍  ‍ ‍ ‍  ‍ $${\color{white}i‍ ‍  will‍ ‍  only ‍ ‍ love ‍ ‍ you ‍ ‍ more}$$
+
+</td></tr></table>
